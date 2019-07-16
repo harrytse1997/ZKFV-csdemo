@@ -20,7 +20,7 @@ namespace csdemo
     public partial class Form1 : Form
     {
 
-        //v1.0 start
+        //v1.0 startfd
         //Declararation of all variables, vectors and haarcascades
         Image<Bgr, Byte> currentFrame;
         Capture grabber;
